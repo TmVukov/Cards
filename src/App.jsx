@@ -25,7 +25,7 @@ function App() {
         <main>
             {!showMore ? (
                 <>
-                    <Screen1 loadNewScreen={loadNewScreen} />
+                    <Screen1 />
                     <button onClick={loadNewScreen}>Show more</button>
                 </>
             ) : (

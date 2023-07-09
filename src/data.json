@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "imgSrc": "./assets/red.jpg",
+      "title": "Spencer",
+      "description": "A DIY voice assistant that talks, lights up, and understands voice commands",
+      "oldPrice": "1,027.99",
+      "newPrice": "813.99",
+      "discount": "20",
+      "age": "11",
+      "color": "crimson"
+    },
+    {
+      "id": 2,
+      "imgSrc": "./assets/yellow.jpg",
+      "title": "Jay-D",
+      "description": "Build and code your own DJ mixer",
+      "oldPrice": "1,027.99",
+      "newPrice": "856.99",
+      "discount": "15",
+      "age": "11",
+      "color": "gold"
+    },
+    {
+      "id": 3,
+      "imgSrc": "./assets/blue.jpg",
+      "title": "Nibble",
+      "description": "Build and code your very own retro game console",
+      "oldPrice": "813.99",
+      "newPrice": "642.99",
+      "discount": "20",
+      "age": "9",
+      "color": "skyblue"
+    },
+    {
+      "id": 4,
+      "imgSrc": "./assets/green.jpg",
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "oldPrice": "913.99",
+      "newPrice": "42.99",
+      "discount": "30",
+      "age": "10",
+      "color": "teal"
+    },
+    {
+      "id": 5,
+      "imgSrc": "./assets/violet.jpg",
+      "title": "Ipsum",
+      "description": "Donec id nisi malesuada, accumsan dui in, egestas lorem",
+      "oldPrice": "1013.99",
+      "newPrice": "742.99",
+      "discount": "5",
+      "age": "9",
+      "color": "purple"
+    },
+    {
+      "id": 6,
+      "imgSrc": "./assets/orange.jpg",
+      "title": "Donec",
+      "description": "Phasellus facilisis mollis facilisis",
+      "oldPrice": "513.99",
+      "newPrice": "442.99",
+      "discount": "10",
+      "age": "12",
+      "color": "chocolate"
+    }
+  ]
+  

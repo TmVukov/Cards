@@ -1,0 +1,47 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    & section {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    & button {
+        align-self: center;
+        border: none;
+        border-radius: 20px;
+        background: crimson;
+        color: white;
+        margin-top: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1000px) {
+    main {
+        height: auto;
+    }
+
+    section {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+}
